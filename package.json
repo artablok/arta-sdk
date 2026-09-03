@@ -1,0 +1,15 @@
+{
+  "name": "arta-sdk",
+  "version": "0.1.0",
+  "description": "Software development kit for building applications on the Arta Blockchain",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artablok/arta-sdk"
+  },
+  "dependencies": {
+    "web3": "^4.5.0"
+  },
+  "keywords": ["arta", "blockchain", "sdk", "web3"]
+}
